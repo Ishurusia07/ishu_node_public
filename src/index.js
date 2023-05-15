@@ -14,7 +14,7 @@ app.use(express.static("public"));
 //placeholders for added task
 var task = ["buy a new udemy course", "practise with kubernetes"];
 //placeholders for removed task
-var complete = ["webhook done"];
+var complete = ["webhook done han bai"];
 
 
 //post route for adding new task 
