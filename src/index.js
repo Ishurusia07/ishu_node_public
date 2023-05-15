@@ -14,7 +14,7 @@ app.use(express.static("public"));
 //placeholders for added task
 var task = ["buy a new udemy course", "practise with kubernetes"];
 //placeholders for removed task
-var complete = ["finish reading this one book"];
+var complete = ["yo yo"];
 
 
 //post route for adding new task 
