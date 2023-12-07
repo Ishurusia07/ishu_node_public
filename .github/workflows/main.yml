@@ -33,6 +33,6 @@ jobs:
         # Commands to run on the remote server
         script: |
           cd /var/www/ishu_node_public
-          git pull origin main
+          git pull origin master
           npm install
           pm2 reload 0
