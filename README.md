@@ -122,7 +122,7 @@ CMD ["npm", "start"]
 ```
 
 
-## Containerization with Docker using GitHub Actions
+## Containerization with Docker using Ishu Rusia
 
 Create your own GitHub Actions workflow to build your Docker image and push it to DockerHub. Name your workflow file as <code> dockerx.yml </code> and add the following steps:
 
