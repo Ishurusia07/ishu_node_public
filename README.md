@@ -107,7 +107,7 @@ Run <code> npm test </code> to run the tests
 
 ![test](./readme/test.jpg)
 
-## Build Docker Image with Dockerfile
+## Build Docker Image with Dockerfile by ishu 
 
 Use the following commands in your `Dockerfile` to build a Docker image:
 
